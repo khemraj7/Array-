@@ -1,5 +1,10 @@
 //bubble sort
 //sort in ascending order
+
+'use strict'
+var a = 10
+console.log(a)
+
 let array = [6, 5, 3, 1, 8, 7, 2, 4]
 var temp
 for (let i = 0; i < array.length - 1; i++) {
