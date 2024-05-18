@@ -1,4 +1,4 @@
-let array = [6, 5, 3, 1, 8, 7, 2, 4]
+let array = [1, 2, 3, 4, 5, 6, 7, 8];
 let find = 7
 let left = 0
 let right = array.length - 1
